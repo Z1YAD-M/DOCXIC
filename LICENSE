@@ -5,9 +5,10 @@ Copyright (c) 2023 Z1YAD-M
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software following the guidelines, being, having the rights
-to use, copy and modify the Software, and to permit persons to whom the Software 
-is furnished to do so. This software may not be resold, redistributed or otherwise 
-conveyed to a third party. Users are subject to the following conditions:
+to use and copy the Software, and to permit persons to whom the Software 
+is furnished to do so. This software may not be resold, modified 
+(without submission of a pull request), redistributed or otherwise conveyed
+to a third party. Users are subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
