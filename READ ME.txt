@@ -1,0 +1,5 @@
+***READ THE LICENSE FILE!***
+
+Thank you for downloading my software. If you have any suggestions, please create an issue topic. Modification of this program is open to whenever I see possible and best. If you make a request, I will keep your request in mind.
+
+Simply extract the entire "DOCX Image Counter" file and place it in your Programs file, then create a shortcut for the desktop of the .exe.
