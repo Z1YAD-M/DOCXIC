@@ -1,8 +1,14 @@
 ***READ THE LICENSE FILE!***
 
-Thank you for downloading my software. If you have any suggestions, please create an issue topic. Modification of this program is open to whenever I see possible and best. If you make a request, I will keep your request in mind.
+Thank you for downloading my software. If you have any suggestions, please create an issue topic.
+Modification of this program is open to whenever I see possible and best. If you make a request, I will keep your request in mind.
 
 Simply extract the entire "DOCX Image Counter" file and place it in your Programs file, then create a shortcut for the desktop of the .exe.
 
-***IMPORTANT NOTICE***
-As of Nov 6th 2023, the file has been unflagged by Microsoft Security Intelligence. It has been verified to be a false positive. Thus, depending on your security vendor, you can get a false positive or no positive at all, as it should be.
+***IMPORTANT UPDATES***
+As of Nov 6th 2023, the file has been unflagged by Microsoft Security Intelligence.
+It has been verified to be a false positive. Thus, depending on your security vendor, 
+you can get a false positive or no positive at all, as it should be.
+
+As of Nov 18th 2023, I have become aware the program is facing a file referencing 
+issue (No such file or directory), and I am working on a fix to be deployed ASAP isA
