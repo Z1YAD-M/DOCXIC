@@ -12,3 +12,5 @@ you can get a false positive or no positive at all, as it should be.
 
 As of Nov 18th 2023, I have become aware the program is facing a file referencing 
 issue (No such file or directory), and I am working on a fix to be deployed ASAP isA
+--UPDATE Nov 19th 2023
+Fix successfully deployed on Nov 18th.
